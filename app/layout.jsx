@@ -5,6 +5,7 @@
 //   - 4.4 main.jsx 里那 8 行 import CSS，原样搬到这里（顺序不变）。
 // 注意：导航条 Nav 不在这儿，它在每一页的 hero 里（HomeView / TextLabView 各放一份），
 // 这样整页布局和 4.4 完全一致。
+//1
 
 import "../css/reset.css";
 import "../css/variables.css";
